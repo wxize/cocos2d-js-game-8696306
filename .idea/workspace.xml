@@ -2,42 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ef27a9a-9818-47e7-9ff3-7e93512f2839" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/gs/pub/animation_bg/animation_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/ss/ch/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/ss/en/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/gs/pub/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/ch/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/en/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/gs/ch/guide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/gs/en/guide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/os/pub/home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/ch/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/en/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/os/ch/lose_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/os/en/lose_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/ss/ch/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/ss/en/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/os/pub/restart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/ch/rotate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/en/rotate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/game/Barricade.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/game/bear/Bear.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/game/items/Branch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/game/GameScene.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/game/guide/Guide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/end/OverScene.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/game/player/Player.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/game/player/jump/PlayerJump.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/game/player/run_/PlayerRun_.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/game/player/run/Run.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/Scene.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/start/StartScene.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/game/items/Stone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/game/items/XZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/res/gs/pub/animation_bg/animation_bg.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/cache.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/gamesrc/d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/src/leoframes/lcocos.js" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\build.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\game.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\project.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\ch\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\ch\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\ch\rotate.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\en\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\en\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\en\rotate.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\ch\guide.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\en\guide.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\animation_bg\animation_bg.plist" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\animation_bg\animation_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\animation_bg\animation_bg\asset14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\animation_bg\animation_bg\asset16.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\animation_bg\animation_bg\tree1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\bear\bear.plist" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\bear\bear.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\close.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\jump\jump.plist" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\jump\jump.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\run\run.plist" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\run\run.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\stone\stone.plist" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\stone\stone.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\stump\stump.plist" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\stump\stump.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\xz\xz.plist" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\gs\pub\xz\xz.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\os\ch\lose_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\os\en\lose_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\os\pub\home.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\os\pub\restart.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\ss\ch\bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\ss\ch\play.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\ss\en\bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leo\workspace\cocos2d-js-game-8696306\source\publish\html5\res\ss\en\play.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/src/gamesrc/game/GameScene.js" afterPath="$PROJECT_DIR$/source/src/gamesrc/game/GameScene.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/src/gamesrc/start/StartScene.js" afterPath="$PROJECT_DIR$/source/src/gamesrc/start/StartScene.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/src/leoframes/lcocos.js" afterPath="$PROJECT_DIR$/source/src/leoframes/lcocos.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/main.js" afterPath="$PROJECT_DIR$/source/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cocos2d-js-game-8696306.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -90,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lcocos.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="lcocos.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/src/leoframes/lcocos.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.965517">
-              <caret line="359" column="25" selection-start-line="359" selection-start-column="25" selection-end-line="359" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.5243698">
+              <caret line="311" column="0" selection-start-line="311" selection-start-column="0" selection-end-line="311" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -104,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/source/src/gamesrc/game/GameScene.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+              <caret line="175" column="18" selection-start-line="175" selection-start-column="18" selection-end-line="175" selection-end-column="18" />
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
               </folding>
@@ -116,17 +124,27 @@
         <entry file="file://$PROJECT_DIR$/source/src/gamesrc/start/StartScene.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Barricade.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Barricade.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/src/gamesrc/game/Barricade.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.82542115">
-              <caret line="82" column="34" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="77" column="33" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="33" />
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
               </folding>
@@ -139,18 +157,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#40#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Run.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/src/gamesrc/game/player/run/Run.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
               </folding>
@@ -189,7 +195,6 @@
         <option value="$PROJECT_DIR$/source/frameworks/cocos2d-html5/Base64Images.js" />
         <option value="$PROJECT_DIR$/source/frameworks/cocos2d-html5/cocos2d/core/scenes/CCLoaderScene.js" />
         <option value="$PROJECT_DIR$/source/src/test.js" />
-        <option value="$PROJECT_DIR$/source/main.js" />
         <option value="$PROJECT_DIR$/source/src/gamesrc/Scene.js" />
         <option value="$PROJECT_DIR$/source/src/gamesrc/game/guide/Guide.js" />
         <option value="$PROJECT_DIR$/source/src/gamesrc/game/bear/Bear.js" />
@@ -205,13 +210,14 @@
         <option value="$PROJECT_DIR$/source/project.json" />
         <option value="$PROJECT_DIR$/source/src/gamesrc/end/OverScene.js" />
         <option value="$PROJECT_DIR$/source/src/gamesrc/game/player/run/Run.js" />
-        <option value="$PROJECT_DIR$/source/src/gamesrc/start/StartScene.js" />
         <option value="$PROJECT_DIR$/source/src/gamesrc/game/player/Player.js" />
         <option value="$PROJECT_DIR$/source/.cocos-project.json" />
-        <option value="$PROJECT_DIR$/source/src/leoframes/lcocos.js" />
         <option value="$PROJECT_DIR$/source/src/resource.js" />
-        <option value="$PROJECT_DIR$/source/src/gamesrc/game/GameScene.js" />
         <option value="$PROJECT_DIR$/source/src/gamesrc/game/Barricade.js" />
+        <option value="$PROJECT_DIR$/source/src/gamesrc/game/GameScene.js" />
+        <option value="$PROJECT_DIR$/source/src/gamesrc/start/StartScene.js" />
+        <option value="$PROJECT_DIR$/source/src/leoframes/lcocos.js" />
+        <option value="$PROJECT_DIR$/source/main.js" />
       </list>
     </option>
   </component>
@@ -697,7 +703,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -714,7 +720,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -829,7 +835,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -846,7 +852,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -879,14 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1013,16 +1011,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/src/gamesrc/end/OverScene.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/src/gamesrc/game/player/run/Run.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1030,14 +1018,6 @@
           <folding>
             <element signature="e#0#40#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/src/gamesrc/start/StartScene.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1067,14 +1047,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/src/leoframes/lcocos.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.965517">
-          <caret line="359" column="25" selection-start-line="359" selection-start-column="25" selection-end-line="359" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/src/resource.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.233334">
@@ -1083,23 +1055,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/src/gamesrc/game/GameScene.js">
+    <entry file="file://$PROJECT_DIR$/source/src/gamesrc/game/Barricade.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+          <caret line="77" column="33" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="33" />
           <folding>
             <element signature="e#0#40#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/src/gamesrc/game/Barricade.js">
+    <entry file="file://$PROJECT_DIR$/source/src/gamesrc/end/OverScene.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82542115">
-          <caret line="82" column="34" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
           <folding>
             <element signature="e#0#40#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/src/gamesrc/game/GameScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="175" column="18" selection-start-line="175" selection-start-column="18" selection-end-line="175" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/src/gamesrc/start/StartScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/src/leoframes/lcocos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5243698">
+          <caret line="311" column="0" selection-start-line="311" selection-start-column="0" selection-end-line="311" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>

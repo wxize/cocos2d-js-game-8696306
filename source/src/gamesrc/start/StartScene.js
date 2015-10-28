@@ -5,6 +5,9 @@ var StartScene = lcocos.model.BaseStartScene.extend({
     ctor : function(){
         this._super()
 
+        if(!lc.isDebug){
+            ggax()
+        }
         var size = cc.winSize
 
         this.res_bg = res.ss_bg

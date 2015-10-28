@@ -10,10 +10,8 @@ lcocos.getIsBookor = function(){
 	lcocos.language = 'ch'
 }
 lcocos.getIsBookor()
-lcocos.hasOokor = function(){
-	return (window.location.href.indexOf("ookor")==-1) ? false : true 	
-}
-lcocos.isDebugger = false
+
+
 lcocos.generalSetting = function(){
 	var l =window.document.getElementById("gameico")
 	l.href = 'res/'+lcocos.language+'/favicon.ico';
@@ -311,6 +309,8 @@ lcocos.copyProperties = function(params, target)
 };
 
 var lc = lc || {}
+lc.isDebug = true
+lc.iso = (window.location.href.indexOf("ookor")==-1) ? false : true
 lc.action = {
 	shake : function(display){
 		display.runAction(

@@ -172,6 +172,9 @@ var GameScene = lcocos.model.BaseAnimationScene_flax.extend({
     },
 
     showGameOver : function(){
+        if(!lc.isDebug){
+            ggay()
+        }
         this.unscheduleUpdate()
         this.gameOver.y = 600
         this.addChild(this.gameOver,13)
